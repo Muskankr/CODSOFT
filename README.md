@@ -1,6 +1,6 @@
-# CODESOFT Internship Projects
+# CODSOFT Internship Projects
 
-This repo contains 3 mini-projects completed for the Codesoft internship:
+This repo contains 3 mini-projects completed for the Codsoft internship:
 
 1. *Calculator* — CLI calculator for add, subtract, multiply, divide.
 2. *Password Generator* — generates secure passwords with custom options.
